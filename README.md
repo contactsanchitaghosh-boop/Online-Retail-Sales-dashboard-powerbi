@@ -11,8 +11,8 @@ This project presents an end-to-end analysis of online retail transaction data t
 
 ## Dataset  
 
-The dataset used for this project is included in this repository.  
-It contains structured e-commerce transaction records covering product-level, customer-level, and country-level sales activity.
+The dataset used for this project is:
+ Online%20Retail%20Data%20Set.xlsx
 
 
 ---
