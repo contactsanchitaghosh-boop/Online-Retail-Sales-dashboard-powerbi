@@ -11,8 +11,9 @@ This project presents an end-to-end analysis of online retail transaction data t
 
 ## Dataset  
 
-The dataset used for this project is:
- Online%20Retail%20Data%20Set.xlsx
+The dataset used for this project can be downloaded below:
+
+[Download Online Retail Dataset](./Online Retail Data Set.xlsx)
 
 
 ---
